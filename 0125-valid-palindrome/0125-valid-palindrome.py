@@ -1,8 +1,10 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = s.lower()
-        rev = ''
-        for i in s:
-            if 'a' <= i <= 'z' or '0' <= i <= '9':
-                rev += i
-        return rev == rev[::-1]
+        # s = s.lower()
+        # rev = ''
+        # for i in s:
+        #     if 'a' <= i <= 'z' or '0' <= i <= '9':
+        #         rev += i
+        # return rev == rev[::-1]
+        clear = "".join(filter(str.isalnum, s)).lower()
+        return clear == clear[::-1]
