@@ -7,6 +7,7 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
