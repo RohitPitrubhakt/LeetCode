@@ -33,9 +33,11 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0069-sqrtx) |
 | [0888-fair-candy-swap](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Sorting
 |  |
