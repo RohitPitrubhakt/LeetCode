@@ -8,10 +8,12 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 | ------- |
 | [0001-two-sum](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
+| [0888-fair-candy-swap](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0001-two-sum) |
+| [0888-fair-candy-swap](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
 | ------- |
@@ -29,4 +31,12 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0888-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0888-fair-candy-swap](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
