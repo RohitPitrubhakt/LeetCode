@@ -22,10 +22,10 @@ class Solution:
             current_node = current_node.next
             current_node.val = total
 
-            if l1 != None:
+            if l1 is not None:
                 l1 = l1.next
             
-            if l2 != None:
+            if l2 is not None:
                 l2 = l2.next
 
         return result.next
