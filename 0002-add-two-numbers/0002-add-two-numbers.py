@@ -5,8 +5,8 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        result = ListNode()
-        current_node = result
+        res = ListNode()
+        temp = res
         total = 0
         carry = 0
 
@@ -15,18 +15,16 @@ class Solution:
             num2 = l2.val if l2 else 0
 
             total = num1 + num2 + carry
-            carry = total // 10 
+            carry = total // 10
             total = total % 10
 
-            current_node.next = ListNode()
-            current_node = current_node.next
-            current_node.val = total
+            temp.next = ListNode()
+            temp = temp.next
+            temp.val = total
 
             if l1 is not None:
                 l1 = l1.next
-            
             if l2 is not None:
                 l2 = l2.next
 
-        return result.next
-
+        return res.next
