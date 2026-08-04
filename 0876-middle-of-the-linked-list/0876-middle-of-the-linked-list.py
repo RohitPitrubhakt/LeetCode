@@ -5,21 +5,31 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        def len():
-            current_node = head
-            counter = 0
+        # def len():
+        #     current_node = head
+        #     counter = 0
 
-            while current_node:
-                counter += 1
-                current_node = current_node.next
+        #     while current_node:
+        #         counter += 1
+        #         current_node = current_node.next
 
-            return counter
+        #     return counter
         
-        current_node = head
-        position = 0
-        middle = len() // 2 + 1
-        while current_node:
-            position += 1
-            if position is middle:
-                return current_node
-            current_node = current_node.next
+        # current_node = head
+        # position = 0
+        # middle = len() // 2 + 1
+        # while current_node:
+        #     position += 1
+        #     if position is middle:
+        #         return current_node
+        #     current_node = current_node.next
+       
+       
+        pointer1 = head
+        pointer2 = head
+
+        while pointer2 and pointer2.next:
+            pointer1 = pointer1.next
+            pointer2 = pointer2.next.next
+
+        return pointer1
