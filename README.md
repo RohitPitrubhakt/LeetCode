@@ -29,6 +29,7 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 | ------- |
 | [0027-remove-element](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
