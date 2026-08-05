@@ -36,6 +36,7 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 | [0002-add-two-numbers](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,12 @@ LeetCode practice repository containing Python solutions for DSA and interview p
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RohitPitrubhakt/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
